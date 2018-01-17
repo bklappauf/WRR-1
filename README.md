@@ -1,6 +1,8 @@
 # WRR-1
 repository of papers for article<br>
 
-[Test1](https://utapwels.github.io/WRR-1/README.md)<br>
+Right click on a file for 'save link as ...' option to download any of the following documents:
 
-[Test2](https://utapwels.github.io/WRR-1/pdfTest.pdf)
+[README.md](https://utapwels.github.io/WRR-1/README.md)<br>
+
+[pdfTest.pdf](https://utapwels.github.io/WRR-1/pdfTest.pdf)
